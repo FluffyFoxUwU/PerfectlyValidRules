@@ -1,13 +1,10 @@
 Rules
 #####
 
-.. _DiscordSafety: https://discord.com/new/safety
-.. _DiscordGuidelines: https://discordapp.com/guidelines
-
 A. Overview
 ***********
 
-The following rules must be followed by everyone that participates on the Discord. The server is in full compliance with the `Discord Community  Guidelines <DiscordGuidelines>`_ and `Discord Safety <DiscordSafety>`_ and follows all protocols set by Discord. You must be over the age of 13 to participate this server. This is an `English <EnglishLanguage>`_ only server.
+The following rules must be followed by everyone that participates on the Discord. The server is in full compliance with the Discord Community  Guidelines (View https://discordapp.com/guidelines) and Discord Safety (View https://discord.com/new/safety) and follows all protocols set by Discord. You must be over the age of 13 to participate this server. This is an `English`_ only server.
 
 B. Raids
 ********
@@ -37,7 +34,7 @@ Alt Accounts You are not allowed to have any alternate accounts on this server. 
 9 - Controversial Subjects
 Things like politics and other controversial conversations are to be spoken about to a minimum, it causes arguments and I want this server be a positive and happy place.
 
-.. _EnglishLanguage:
+.. _English:
 English Language
 ***************
 
