@@ -4,7 +4,7 @@ Rules
 A. Overview
 ***********
 
-The following rules must be followed by everyone that participates on the Discord. The server is in full compliance with the Discord Community Guidelines and follows all protocols set by Discord. You must be over the age of 13 to use this server. This is also an English only server. Read it here for more information: >https://discordapp.com/guidelines< or here >https://discord.com/new/safety< 
+The following rules must be followed by everyone that participates on the Discord. The server is in full compliance with the `Discord Community  Guidelines <DiscordGuidelines>`_ and `Discord Safety <DiscordSafety>`_ and follows all protocols set by Discord. You must be over the age of 13 to participate this server. This is also an English only server.
 
 B. Raids
 ********
@@ -33,3 +33,8 @@ Alt Accounts You are not allowed to have any alternate accounts on this server. 
 
 9 - Controversial Subjects
 Things like politics and other controversial conversations are to be spoken about to a minimum, it causes arguments and I want this server be a positive and happy place.
+
+Links
+*****
+.. _DiscordSafety: https://discord.com/new/safety
+.. _DiscordGuidelines: https://discordapp.com/guidelines
