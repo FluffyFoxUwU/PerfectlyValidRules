@@ -1,12 +1,15 @@
 Rules
 #####
 
-Any part of the `Rules`_ MUST not be ignored or otherwise not fully know the `Rules`_. Any appeal and/or complain which claims `You`_ haven't/didn't/forgot read the `Rules`_ will be treated as `InvalidRequest`_ and/or `You`_r appeal and/or complain will be ignored
+Any part of the `Rules`_ MUST not be ignored or otherwise not fully know the `Rules`_. Any appeal and/or complain which claims `You`_ haven't/didn't/forgot read any part/section/line in the `Rules`_ will be treated as `InvalidRequest`_ and/or `You`_r appeal and/or complain will be ignored
+
+.. note::
+   This document (referred as `Rules`_) will mix both usage of plural and singular form. The plural version will take over even if it clearly written or stated as singular form. For non exhaustive example, `Staff`_ would mean group of `Member`_ who have special administrative and moderative rights and permissions
 
 A. Overview
 ***********
 
-The following rules must be followed by everyone that participates on the Discord. The `Server`_ is in full compliance with the Discord Community  Guidelines (View https://discordapp.com/guidelines) and Discord Safety (View https://discord.com/new/safety) and follows all protocols set by Discord. You must be over the age of 13 to participate this `Server`_. This is an `English`_ only `Server`_.
+The following rules must be followed by everyone (including `You`_) that participates on the Discord. The `Server`_ is in full compliance with the Discord Community  Guidelines (View https://discordapp.com/guidelines) and Discord Safety (View https://discord.com/new/safety) and follows all protocols set by Discord. You must be over the age of 13 to participate this `Server`_. This is an `English`_ only `Server`_.
 
 B. Discord Term of Service
 =======================
@@ -17,12 +20,24 @@ C. Raids
 
 This `Server`_ is NOT affiliated with the raids that occur on channels in any shape or form. It is not to be used as a platform to promote and/or organize raids on others. If users are found to be participating in a raid on Discord and/or discussing raids/raiding, they will be immediately banned with no warning. We encourage users to report this to staff immediately. Raids and/or discussion of it are STRICTLY forbidden on this `Server`_ - attempts to bypass this rule will be a ban. 
 
-D. Message
+D. Content
 **********
 
-Message is a `User`_ content or Your Content as defined by Discord Term of Service but not limited to text/image and link.
+Content is a Your Content as defined by Discord Term of Service but not limited to text, links, GIFs, emoji, photos, videos, documents, or other media. If Discord come up with another way for `You`_ to add user/machine created cotnent to the Discord's services, it includes those added irrespective whether is only accesible by Nitro users or beta users or any kind of both special and non special access will be included
 
-Here is not exhaustive list 
+Here is non exhaustive list of prohibited contents (`Content`_ defined by Discord Term of Service shall take over priority than this list if there missing entry/entries)
+
+.. _NSFW:
+1. Not Safe For Work content
+============================
+Not Safe For Work or abbreviated as NSFW is type of `Content`_ which `Viewer`_ may not want or desire to view in public space channel for example but not limited to graphic violence, pornography, profanity, nudity, slurs or other potentially disturbing `Content`_ as viewed by other. 
+
+Subtypes of NSFW content:
+
+1. Not Safe For Life
+--------------------
+Not Safe For Life or abbreviated as NSFL is subtype of `NSFW`_ `Content`_ which focused on nauseating or disturbing that it might cause long lasting emotional damage to 
+
 
 E. Rules Update
 ***************
@@ -50,6 +65,19 @@ Things like politics and other controversial conversations are to be spoken abou
 
 Miscelanous Details
 *******************
+
+Other
+=====
+Specified group of one or more `User`_ excluding `You`_ which including `Staff`_, and `Member`_
+
+Staff
+=====
+
+
+
+Member
+======
+Member is a `User`_ which part of the `Server`_ and is not part of `Staff`_
 
 You
 ===
